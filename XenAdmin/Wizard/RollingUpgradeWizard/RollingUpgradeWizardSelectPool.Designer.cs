@@ -1,5 +1,5 @@
 using XenAdmin.Controls.DataGridViewEx;
-##
+
 namespace XenAdmin.Wizards.RollingUpgradeWizard
 {
     partial class RollingUpgradeWizardSelectPool
